@@ -11,7 +11,7 @@ Analizar los registros de videos en tendencia de YouTube en la India (14 de novi
 - Jack Snayder Lima Huamani (U20241G263) — Data Scientist
 
 ## Breve descripción del conjunto de datos
-Se emplearon los archivos `INvideos_cc50_202101.csv` y `IN_category_id.json` (versión modificada con variables geográficas simuladas), partiendo de 38,533 filas crudas hasta obtener 32,706 registros válidos (16,521 videos únicos) tras la limpieza y construcción de variables.
+Se emplearon los archivos `INvideos_Inicial.csv` y `IN_category_id.json` (versión modificada con variables geográficas simuladas), partiendo de 38,533 filas crudas hasta obtener 32,706 registros válidos (16,521 videos únicos) tras la limpieza y construcción de variables.
 
 - 📄 **Informe completo del proyecto:** [Ver informe PDF (`upc-2026-02-4878-g1-tf.pdf`)](./upc-2026-02-4878-g1-tf.pdf)
 
